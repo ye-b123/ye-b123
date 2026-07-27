@@ -17,4 +17,4 @@
 
 ## 📫 Connect with Me
   [LinkedIn](http://www.linkedin.com/in/yaa-yeboaa-owusu-193503326)  
-  [Email](owusuyaa23@gmail.com)
+  Email- owusuyaa23@gmail.com 
