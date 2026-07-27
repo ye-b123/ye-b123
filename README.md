@@ -16,5 +16,5 @@
 - **ToneMark** – A tone-aware annotation and diacritic restoration project for Twi.
 
 ## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/yaa-yeboaa-owusu-193503326   
+- LinkedIn:[Linkedin]www.linkedin.com/in/yaa-yeboaa-owusu-193503326   
 - Email: owusuyaa23@gmail.com
