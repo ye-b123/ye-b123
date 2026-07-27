@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Yaa Yeboaa Owusu 👋
 
-<!--
-**ye-b123/ye-b123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Applied Linguistics graduate from the University of Education, Winneba (Ghana)
 
-Here are some ideas to get you started:
+💻 Interested in Computational Linguistics, Natural Language Processing (NLP), and AI for low-resource languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 My current research focuses on improving NLP for Twi (Akan) by developing tone-aware and diacritic-aware language technologies.
+
+## 🔬 What I'm Working On
+- Twi diacritic restoration
+- Machine Translation
+- Speech & Language Technology
+- Low-resource NLP
+
+## 🚀 Featured Project
+- **ToneMark** – A tone-aware annotation and diacritic restoration project for Twi.
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/yaa-yeboaa-owusu-193503326   
+- Email: owusuyaa23@gmail.com
